@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MedTrack</string>
+    <string name="title_activity_loginscreen">Loginscreen</string>
+    <string name="title_activity_homescreen">Homescreen</string>
+    <string name="title_activity_addmedicationscreen">Addmedicationscreen</string>
+    <string name="title_activity_symptomsscreen">Symptomsscreen</string>
+    <string name="title_activity_welcomescreen">Welcomescreen</string>
+    <string name="title_activity_signupscreen">Signupscreen</string>
+    <string name="title_activity_patient_entity.kt">PatientEntity.kt</string>
+    <string name="title_activity_settings_view_model">SettingsViewModel</string>
+</resources>
